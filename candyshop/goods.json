@@ -1,6 +1,18 @@
 [
   {
-    "name": "Иороженое с беклном",
+    "id": 1,
+    "thumbnail":"https://shustrila.github.io/API/candyshop/images/cards/ice-garlic.jpg",
+    "name": "Чесночные сливки",
+    "price": 230,
+    "weight": 70,
+    "stars": 4
+  },
+  {
+    "id": 2,
+    "thumbnail":"https://shustrila.github.io/API/candyshop/images/cards/ice-pig.jpg",
+    "name": "Мороженое с беклном",
+    "price": 200,
+    "weight": 80,
     "stars": 5
   }
 ]
